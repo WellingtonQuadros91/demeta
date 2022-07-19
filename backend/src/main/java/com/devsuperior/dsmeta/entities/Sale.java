@@ -57,6 +57,14 @@ public class Sale {
 		return deals;
 	}
 
+	public Integer getDeals() {
+		return deals;
+	}
+
+	public void setDeals(Integer deals) {
+		this.deals = deals;
+	}
+
 	public void setDealsInteger(Integer dealsInteger) {
 		this.deals = dealsInteger;
 	}
